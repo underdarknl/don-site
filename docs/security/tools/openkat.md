@@ -23,11 +23,16 @@ import { Link, Icon, Alert, Heading } from
 </Alert>
 
 OpenKAT is ontwikkeld om de (beveiligings-)status van informatiesystemen te
-monitoren, analyseren en op te slaan. OpenKAT scant netwerken, analyseert
-kwetsbaarheden en produceert toegankelijke rapportages. Het pakket integreert de
-meeste gebruikte beveiligings-tools in een modulair framework, raadpleegt
-externe databases en combineert informatie van al deze bronnen tot duidelijke
-rapporten voor verschillende doelgroepen en gebruikers. OpenKAT is gratis, Open
-Source en self-hosted beschikbaar.
+monitoren, analyseren en over tijd op te slaan. OpenKAT scant netwerken, 
+analyseert kwetsbaarheden en produceert toegankelijke rapportages. 
+Het pakket integreert de meeste gebruikte beveiligings-tools in een modulair 
+framework, raadpleegt externe databases en combineert informatie van al deze 
+bronnen tot duidelijke (periodieke) rapporten voor verschillende doelgroepen en 
+gebruikers. OpenKAT is gratis, Open Source en self-hosted beschikbaar. 
+Daarnaast kent OpenKAT een levende community van security experts, gebruikers 
+en beleidsmakers die deze onderwerpen interessant vinden.
+
+OpenKAT is installeerbaar op Windows, Mac en Linux, zowel via docker containers, 
+deb files als op K8s.
 
 **[Naar de website van OpenKat](https://openkat.nl/)**
